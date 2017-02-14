@@ -1,0 +1,22 @@
+// font-family
+$baseFontFamily :"游ゴシック", YuGothic, "メイリオ",Verdana, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+
+// colors
+$baseColor: #fffbff;
+$subColor: #18344f;
+$keyColor: #ee8aad;
+$fontColor: #4c4c4c;
+
+// header
+header {
+    height: 500px;
+    background-color: red;
+}
+
+// desktop
+@media (min-width: 1025px) {
+    header {
+        background-color: blue;
+    }
+    
+}

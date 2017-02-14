@@ -1,0 +1,9 @@
+header {
+  height: 500px;
+  background-color: red; }
+
+@media (min-width: 1025px) {
+  header {
+    background-color: blue; } }
+
+/*# sourceMappingURL=style.css.map */
